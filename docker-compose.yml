@@ -1,0 +1,8 @@
+version: '3'
+services:
+  php:
+    image: php:8.2-cli
+    volumes:
+      - ./src:/usr/src/oop_battle_app
+    working_dir: /usr/src/oop_battle_app
+    command: bash -c "find . -type f -exec chmod 755 {} + && php ./main.php"
