@@ -8,4 +8,4 @@ run
 $ docker-compose up
 ```
 
-![CleanShot 2024-02-23 at 13 23 39@2x](https://github.com/mae616/TechCommit_oop_battle/assets/50073576/361d0637-69b4-4a95-9c33-de3193fe9b57)
+![CleanShot 2024-02-23 at 13 24 53@2x](https://github.com/mae616/TechCommit_oop_battle/assets/50073576/0501bdca-6eae-442e-8992-68e7b619d5c1)
